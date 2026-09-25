@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "gameId": "cq0kd71ir2sz",
+  "title": "ドンぱちFPS",
+  "versionId": "f0056beb-521a-4e76-8220-a02e31b17f7c",
+  "snapshotAt": "2026-09-25T14:23:46.343Z",
+  "playUrl": "https://gcn-play.com/play/cq0kd71ir2sz",
+  "files": [
+    {
+      "path": "README.md",
+      "mime": "text/markdown; charset=utf-8",
+      "bytes": 1865,
+      "sha256": "0bb3fa4bd5955b028699a169bfd95543d7428bac3000db4481d3020c0308faa1"
+    },
+    {
+      "path": "index.html",
+      "mime": "text/html; charset=utf-8",
+      "bytes": 4791580,
+      "sha256": "7a60bbc38519f381bd218d2b58818962f2839784dc96deb766d9e7f7ce67457b"
+    },
+    {
+      "path": "assets/models/enemy_soldier.glb",
+      "mime": "model/gltf-binary",
+      "bytes": 383272,
+      "sha256": "e710c05d670b96939676df36fe1dc52f140fff89b18276e2600320e5f1dd9bb1"
+    },
+    {
+      "path": "assets/models/rifle.glb",
+      "mime": "model/gltf-binary",
+      "bytes": 358704,
+      "sha256": "0e3d996c3377bbc624bd9aef5832f967d2a642338f7ef975bae32c15a80a9f5c"
+    },
+    {
+      "path": "assets/music/bgm_main.wav",
+      "mime": "audio/wav",
+      "bytes": 1323044,
+      "sha256": "f5f241283da9e555e0a43e89703a447523ce057cd86f899e9624ccb4fdd8b533"
+    },
+    {
+      "path": "assets/sfx/se_eshot.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "e497103eb2f0afd638d5faa12684e782df3caeaf8e7985095c07284d69df7bd9"
+    },
+    {
+      "path": "assets/sfx/se_hurt.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "d9fcf71d5fe25a1b438f580b30ae216dc4f4759318e54c86bcca88b9075e2054"
+    },
+    {
+      "path": "assets/sfx/se_reload.wav",
+      "mime": "audio/wav",
+      "bytes": 352878,
+      "sha256": "6a7e2f73c3d65822c74d1763750297244c560e377e255439ea016c69b5fd0cf9"
+    },
+    {
+      "path": "assets/sfx/se_shot.wav",
+      "mime": "audio/wav",
+      "bytes": 176478,
+      "sha256": "482130dae1c35771dfe602864c5fcf7e059fb8ae8367dc5454c878dfcd44fdd0"
+    }
+  ],
+  "skipped": []
+}
