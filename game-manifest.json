@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "gameId": "cq0kd71ir2sz",
-  "title": "無題のゲーム",
+  "title": "ドンぱちFPS",
   "versionId": "f0056beb-521a-4e76-8220-a02e31b17f7c",
-  "snapshotAt": "2026-09-25T10:27:10.240Z",
+  "snapshotAt": "2026-09-25T14:23:46.343Z",
   "playUrl": "https://gcn-play.com/play/cq0kd71ir2sz",
   "files": [
     {
       "path": "README.md",
       "mime": "text/markdown; charset=utf-8",
-      "bytes": 1868,
-      "sha256": "b24a4665972ca07e2187e52c5eaff8301be763bd626dfca04fe4a71d6eb46087"
+      "bytes": 1865,
+      "sha256": "0bb3fa4bd5955b028699a169bfd95543d7428bac3000db4481d3020c0308faa1"
     },
     {
       "path": "index.html",

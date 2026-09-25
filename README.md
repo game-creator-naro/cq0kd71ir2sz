@@ -1,4 +1,4 @@
-# 無題のゲーム
+# ドンぱちFPS
 
 ▶ 遊ぶ: https://gcn-play.com/play/cq0kd71ir2sz
 （このゲームが公開されていない間、上の URL は開けません）
