@@ -2,8 +2,8 @@
   "schema": 1,
   "gameId": "cq0kd71ir2sz",
   "title": "ドンぱちFPS",
-  "versionId": "f0056beb-521a-4e76-8220-a02e31b17f7c",
-  "snapshotAt": "2026-09-25T14:23:46.343Z",
+  "versionId": "897af880-813b-4d48-98df-248a0a6b5d4d",
+  "snapshotAt": "2026-09-25T14:37:57.796Z",
   "playUrl": "https://gcn-play.com/play/cq0kd71ir2sz",
   "files": [
     {
@@ -15,8 +15,8 @@
     {
       "path": "index.html",
       "mime": "text/html; charset=utf-8",
-      "bytes": 4791580,
-      "sha256": "7a60bbc38519f381bd218d2b58818962f2839784dc96deb766d9e7f7ce67457b"
+      "bytes": 4791910,
+      "sha256": "406ad3e8b5fe028e456dd421606a84e4d32c9d438f24623fce8d2dc97025e6ab"
     },
     {
       "path": "assets/models/enemy_soldier.glb",
